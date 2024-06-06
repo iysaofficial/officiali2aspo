@@ -17,6 +17,38 @@ const routes: Routes = [
       ),
     data: { breadcrumb: 'Homepage' },
   },
+  {
+    path: 'lowtahun',
+    loadChildren: () =>
+      import('./components/pages/low/lowtahun.module').then(
+        (m) => m.lowtahunModule
+      ),
+    data: { breadcrumb: 'List of Winners' },
+  },
+  {
+    path: 'kategori23',
+    loadChildren: () =>
+      import('./components/pages/low/2023/kategori/kategori23.module').then(
+        (m) => m.Kategori23Module
+      ),
+    data: { breadcrumb: 'List of Winners' },
+  },
+  {
+    path: 'jenjangofl23',
+    loadChildren: () =>
+      import('./components/pages/low/2023/jenjangofl/jenjangofl23.module').then(
+        (m) => m.Jenjangofl23Module
+      ),
+    data: { breadcrumb: 'List of Winners' },
+  },
+  {
+    path: 'jenjangonl23',
+    loadChildren: () =>
+      import('./components/pages/low/2023/jenjangonl/jenjangonl23.module').then(
+        (m) => m.Jenjangonl23Module
+      ),
+    data: { breadcrumb: 'List of Winners' },
+  },
   // {
   //   path: 'home-v5',
   //   loadChildren: () =>

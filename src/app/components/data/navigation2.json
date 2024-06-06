@@ -6,30 +6,8 @@
   },
   {
     "id": 2,
-    "linkText": "List of Winner",
-    "child": true,
-    "submenu": [
-      {
-        "id": 2.4,
-        "link": "https://drive.google.com/file/d/1eopQ5yJXiS6S9qSzAE57CLk9gjFFLWHv/view?usp=drive_link",
-        "linkText": "List of Winner 2020"
-      },
-      {
-        "id": 2.5,
-        "link": "https://drive.google.com/file/d/1U1YCcAAg2tvAGdy1sahfG1T8YdOfUJFD/view?usp=drive_link",
-        "linkText": "List of Winner 2021"
-      },
-      {
-        "id": 2.6,
-        "link": "https://drive.google.com/file/d/1Pq5vbZkJnHS-pw-GNvK_HuO7lOwhmH4f/view?usp=sharing",
-        "linkText": "List of Winner 2022"
-      },
-      {
-        "id": 2.7,
-        "link": "https://drive.google.com/file/d/1pWwJfh6U8iIgCMN0Go5DS94XIz0kb1c6/view?usp=sharing",
-        "linkText": "List of Winner 2023"
-      }
-    ]
+    "link": "/lowtahun",
+    "linkText": "List of Winner"
   },
   {
     "id": 3,
