@@ -27,14 +27,9 @@
     "child": true,
     "submenu": [
       {
-        "id": 3.4,
-        "link": "https://drive.google.com/drive/folders/1GmwC2S0u3K7XxT2RXXszWvjMLI2aBaBP?usp=sharing",
-        "linkText": "Curation 2020"
-      },
-      {
-        "id": 3.5,
-        "link": "https://drive.google.com/drive/folders/163n5svnft8JDC60yddD1Y-KlplOmSvwX?usp=sharing",
-        "linkText": "Curation 2021"
+        "id": 3.7,
+        "link": "https://drive.google.com/drive/folders/1qsTfq7DmSOLZMq_gvYqQbATdS_-GWvYf?usp=sharing",
+        "linkText": "Curation 2023"
       },
       {
         "id": 3.6,
@@ -42,9 +37,14 @@
         "linkText": "Curation 2022"
       },
       {
-        "id": 3.7,
-        "link": "https://drive.google.com/drive/folders/1qsTfq7DmSOLZMq_gvYqQbATdS_-GWvYf?usp=sharing",
-        "linkText": "Curation 2023"
+        "id": 3.5,
+        "link": "https://drive.google.com/drive/folders/163n5svnft8JDC60yddD1Y-KlplOmSvwX?usp=sharing",
+        "linkText": "Curation 2021"
+      },
+      {
+        "id": 3.4,
+        "link": "https://drive.google.com/drive/folders/1GmwC2S0u3K7XxT2RXXszWvjMLI2aBaBP?usp=sharing",
+        "linkText": "Curation 2020"
       }
     ]
   },
@@ -55,14 +55,9 @@
     "child": true,
     "submenu": [
       {
-        "id": 4.1,
-        "link": "https://drive.google.com/drive/folders/1awa1sITOW8HcnSb8VUo5991z7mJ5CIl9?usp=drive_link",
-        "linkText": "Gallery 2020"
-      },
-      {
-        "id": 4.2,
-        "link": "https://drive.google.com/drive/folders/100rDLD2T9EjwCgNDJcC7ldMCfUzym_aN?usp=drive_link",
-        "linkText": "Gallery 2021"
+        "id": 4.4,
+        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
+        "linkText": "Gallery 2023"
       },
       {
         "id": 4.3,
@@ -70,9 +65,14 @@
         "linkText": "Gallery 2022"
       },
       {
-        "id": 4.4,
-        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
-        "linkText": "Gallery 2023"
+        "id": 4.2,
+        "link": "https://drive.google.com/drive/folders/100rDLD2T9EjwCgNDJcC7ldMCfUzym_aN?usp=drive_link",
+        "linkText": "Gallery 2021"
+      },
+      {
+        "id": 4.1,
+        "link": "https://drive.google.com/drive/folders/1awa1sITOW8HcnSb8VUo5991z7mJ5CIl9?usp=drive_link",
+        "linkText": "Gallery 2020"
       }
     ]
   },

@@ -4,8 +4,8 @@
       "title": "Quick Link",
       "items": [
         {
-          "title": "I2ASPO",
-          "link": "/i2aspo"
+          "title": "Registration I2ASPO",
+          "link": "https://registrasi-i2aspo.vercel.app/"
         }
       ]
     },
