@@ -27,6 +27,11 @@
     "child": true,
     "submenu": [
       {
+        "id": 3.8,
+        "link": "https://drive.google.com/drive/folders/1VHcvXdOu62AG19pmJVkfPMqMBlAkrpT6?usp=sharing",
+        "linkText": "Curation 2024"
+      },
+      {
         "id": 3.7,
         "link": "https://drive.google.com/drive/folders/1qsTfq7DmSOLZMq_gvYqQbATdS_-GWvYf?usp=sharing",
         "linkText": "Curation 2023"
